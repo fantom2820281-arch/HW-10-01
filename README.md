@@ -209,3 +209,4 @@ SQL-интерфейс	Не нужно учить новые языки запр
 ---
 ---
 ---
+:rocket: :whale: :package: :white_check_mark:
